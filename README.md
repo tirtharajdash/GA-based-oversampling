@@ -13,3 +13,6 @@
   * numpy
   * matplotlib
   * imblearn
+
+## Cite this publication, if you use this repo:
+Saladi P.S.M., Dash T. (2019) Genetic Algorithm-Based Oversampling Technique to Learn from Imbalanced Data. In: Bansal J., Das K., Nagar A., Deep K., Ojha A. (eds) Soft Computing for Problem Solving. Advances in Intelligent Systems and Computing, vol 816. Springer, Singapore (https://link.springer.com/chapter/10.1007/978-981-13-1592-3_30)
